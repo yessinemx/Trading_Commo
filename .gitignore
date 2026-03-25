@@ -1,9 +1,8 @@
-# Données sensibles / générées automatiquement
-GSCI_Data.xlsx
-Rapport_GSCI_2026.docx
-
-# Graphiques générés
-*.png
+﻿#  Données & Outputs (générés automatiquement) 
+data/GSCI_Data.xlsx
+output/*.png
+output/*.docx
+output/*.xlsx
 
 # Notebook exécuté de test
 Projet_GSCI_2026_executed.ipynb
