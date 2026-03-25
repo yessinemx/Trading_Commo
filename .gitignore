@@ -1,0 +1,24 @@
+# Données sensibles / générées automatiquement
+GSCI_Data.xlsx
+Rapport_GSCI_2026.docx
+
+# Graphiques générés
+*.png
+
+# Notebook exécuté de test
+Projet_GSCI_2026_executed.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
