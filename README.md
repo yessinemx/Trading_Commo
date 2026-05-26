@@ -1,7 +1,7 @@
 ﻿# Projet Commodities 2026  Stratégies sur l'indice S&P GSCI ER
 
 > Université Paris Dauphine  Master 272 - Parcours Quant  
-> Auteurs : **Yassine Mannai**, **Issam Fradi**, **Antonin Bezard**, **Yves-Marie Saliou**   
+> Auteurs : **Yassine Mannai**, **Issam Fradi**, **Antonin Bezard** & **Yves-Marie Saliou**   
 > Période analysée : 31/12/1969  31/12/2025
 
 ---
