@@ -1,11 +1,11 @@
-﻿#  Données & Outputs (générés automatiquement) 
-data/GSCI_Data.xlsx
-output/*.png
-output/*.docx
-output/*.xlsx
+﻿#  Données & Outputs
+#data/GSCI_Data.xlsx
+#output/*.png
+#output/*.docx
+#output/*.xlsx
 
 # Notebook exécuté de test
-Projet_GSCI_2026_executed.ipynb
+#Projet_GSCI_2026_executed.ipynb
 
 # Python
 __pycache__/

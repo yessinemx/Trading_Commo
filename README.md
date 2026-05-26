@@ -1,7 +1,7 @@
 ﻿# Projet Commodities 2026  Stratégies sur l'indice S&P GSCI ER
 
-> Université Paris Dauphine  Master Finance  
-> Auteurs : **Yassine Mannai**, **Issam Fradi**, **Antonin Bezard**  
+> Université Paris Dauphine  Master 272 - Parcours Quant  
+> Auteurs : **Yassine Mannai**, **Issam Fradi**, **Antonin Bezard**, **Yves-Marie Saliou**   
 > Période analysée : 31/12/1969  31/12/2025
 
 ---
@@ -13,10 +13,10 @@ Trading_Commo/
  Projet_GSCI_2026.ipynb    Notebook principal (Q1 à Q8)
  docs/
     Projet_2026.pdf       Énoncé du projet
-    Commodity_2026.pdf    Cours R. Feraud (référence)
- data/                     Données Bloomberg (gitignorées)
+    Commodity_2026.pdf    Cours R. Feraud 
+ data/                    Données Bloomberg 
     GSCI_Data.xlsx        Généré automatiquement au 1er run Bloomberg
- output/                   Graphiques & rapport (gitignorés)
+ output/                  Graphiques & rapport 
      Q1_indices.png
      Q5_moving_averages.png
      Q6_strategies.png
